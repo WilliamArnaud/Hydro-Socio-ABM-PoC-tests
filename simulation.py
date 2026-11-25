@@ -7,7 +7,7 @@ from hydrology import Parcel
 from agents import Farmer, Village
 
 # =====================================================================
-# OPENMOLE INTERFACE (Inputs & Simulation Wrapper)
+# INTERFACE (Inputs & Simulation Wrapper)
 # =====================================================================
 
 SCENARIO_INPUTS = {
